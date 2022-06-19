@@ -1,5 +1,5 @@
 ﻿namespace CsvParser
-
+    
 module Parsing =
 
     open System    
